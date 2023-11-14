@@ -140,7 +140,7 @@ public class CommonLoginController {
                         new Menu("会员分组", "base/member/member/memberGroup/index", false, false, "base/member/member/memberGroup/index", new Menu.Meta("会员分组", "tree", false, null)),
                         new Menu("会员管理", "base/member/member/members/index", false, false, "base/member/member/members/index", new Menu.Meta("会员管理", "user", false, null)),
                         new Menu("会员等级", "base/member/member/memberLevel/index", false, false, "base/member/member/memberLevel/index", new Menu.Meta("会员等级", "user", false, null)),
-                        new Menu("初始赠礼", "base/member/member/memberGift/index", false, false, "base/member/member/memberGift/index", new Menu.Meta("开发赠礼", "user", false, null)),
+                        new Menu("初始赠礼", "base/member/member/memberGift/index", false, false, "base/member/member/memberGift/index", new Menu.Meta("初始赠礼", "user", false, null)),
                         new Menu("会员设置", "base/member/member/memberSettings/index", false, false, "base/member/member/memberSettings/index", new Menu.Meta("会员设置", "user", false, null))
                 ));
 
