@@ -1,1 +1,1 @@
-package com.alinesno.infra.base.member.api.provider;
+package com.alinesno.infra.base.member.gateway.provider;
