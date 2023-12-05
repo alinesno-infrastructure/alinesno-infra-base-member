@@ -25,7 +25,7 @@
         <module>alinesno-infra-base-member-facade</module>  <!-- 接口和引用 -->
         <module>alinesno-infra-base-member-domain</module>  <!-- 领域服务 -->
         <module>alinesno-infra-base-member-adapter</module> <!-- 适配层 -->
-        <module>alinesno-infra-base-member-api</module>  <!-- 接口服务 -->
+        <module>alinesno-infra-base-member-gateway</module>  <!-- 接口服务 -->
         <module>alinesno-infra-base-member-client</module>  <!-- 对外引用 -->
         <module>alinesno-infra-base-member-boot</module>  <!-- 启动服务 -->
 

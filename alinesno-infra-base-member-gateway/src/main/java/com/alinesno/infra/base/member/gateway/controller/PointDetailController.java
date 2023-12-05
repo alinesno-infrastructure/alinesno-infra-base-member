@@ -1,4 +1,4 @@
-package com.alinesno.infra.base.member.api.controller;
+package com.alinesno.infra.base.member.gateway.controller;
 
 import com.alinesno.infra.base.member.entity.PointDetailEntity;
 import com.alinesno.infra.base.member.service.IPointDetailService;
@@ -10,6 +10,7 @@ import jakarta.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang.builder.ToStringBuilder;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Primary;
 import org.springframework.context.annotation.Scope;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.PostMapping;
