@@ -855,8 +855,8 @@ fill-range@^7.0.1:
     to-regex-range "^5.0.1"
 
 follow-redirects@^1.15.0:
-  version "1.15.3"
-  resolved "https://registry.npmmirror.com/follow-redirects/-/follow-redirects-1.15.3.tgz"
+  version "1.15.4"
+  resolved "https://registry.npmmirror.com/follow-redirects/-/follow-redirects-1.15.4.tgz#cdc7d308bf6493126b17ea2191ea0ccf3e535adf"
 
 for-in@^1.0.2:
   version "1.0.2"
